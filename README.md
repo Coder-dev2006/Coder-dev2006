@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Coder-dev2006  
 
-<!--
-**Coder-dev2006/Coder-dev2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Junior Python Developer**  
+🚀 Passionate about coding, cybersecurity, and open-source projects  
+🌐 Based in Uzbekistan  
 
-Here are some ideas to get you started:
+## 🛠️ Skills  
+- Python, Django, Flask  
+- REST API, JSON, PostgreSQL  
+- Linux, Git, GitHub  
+- HTML, CSS, Networking Basics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Contact  
+📧 Email: creofles@gmail.com  , phone number : +998912216056 
+🌍 GitHub: [github.com/Coder-dev2006](https://github.com/Coder-dev2006)
